@@ -23,3 +23,7 @@
 2. Ensure you have **JDK 17** (or 21) set as your Gradle JDK in settings.
 3. Build and hit Run to deploy onto your Android Emulator or physical device.
 4. *Note: As this app streams high-res 4k images from Unsplash, ensure your emulator has an active internet connection to see the artwork render.*
+
+
+## 📽️ Demo Video Link 
+https://youtube.com/shorts/fHGhDo2tSbs
